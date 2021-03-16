@@ -70,29 +70,27 @@ font-size: 18px;
 .twitter
 {
 background-color:  #1da1f2;
-border-radius: 5px;
-padding: 10px;
-text-transform: uppercase;
-font-weight: bold;
-color: white;
 margin-bottom: 5px;
 }
 
 .fb
 {
-background-color:   #3b5998;
-border-radius: 5px;
+background-color:   #3b5998; 
+}
+
+.button
+{border-radius: 5px;
 padding: 10px;
 text-transform: uppercase;
 font-weight: bold;
-color: white;    
+color: white;   
 }
 
-.tw a:hover{
+.twitter:hover{
 background-color: #0b7bc1;
 }
 
-.fcb a:hover{
+.fb:hover{
 background-color:#2b406e;
 }
 
